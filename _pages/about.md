@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: >
+  <p>Senior Scientist and Lecturer at ETH Zurich's Computer Science Department</p>
+  <p>CNB F 108, Universitätstr. 6, 8092 Zurich, Switzerland</p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Christoph_Sprenger.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#  address: >
+#    <p>CNB F 108</p>
+#    <p>Universitätstr. 6</p>
+#    <p>8092 Zurich, Switzerland</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am senior scientist and lecturer in Prof. David Basin's [Information Security group](https://www.infsec.ch), which I joined in 2004. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in the intersection of formal methods and information security. Concretely, I am interested in the modeling and verification of distributed systems, including security protocols, secure networking protocols, concurrency control protocols, and consensus protocols. I am frequently working with the proof assistant [Isabelle/HOL](https://isabelle.in.tum.de/) and the [Tamarin prover](https://tamarin-prover.github.io/). I am particularly interested in inductive/co-inductive and in compositional reasoning methods and in combining reasoning about models with reasoning about programs to obtain strong global guarantees about running systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before I joined ETH Zurich, I was a postdoc at INRIA Sophia Antipolis in Prof. Gilles Barthe's group (2002-2003) and at the Swedish Institute of Computer Science in Prof. Mads Dam's group (2001-2002). I received my PhD from EPFL in 2000, supervised by Prof. Claude Petitpierre. 

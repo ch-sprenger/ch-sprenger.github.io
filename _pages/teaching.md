@@ -2,11 +2,139 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I am teaching or I have taught. 
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+V: lecture (as lecturer); U: exercises (as tutor); P: lab; S: seminar.
 
-Organize your courses by years, topics, or universities, however you like!
+- Spring Semester 2023 \\
+[Computer-Aided Modelling and Reasoning](https://infsec.ethz.ch/education/ss2023/camr.html); 4P
+
+- Autumn Semester 2022 \\
+[Applied Security Laboratory](http://www.infsec.ethz.ch/education/as2022/seclab); 3P
+
+- Spring Semester 2022 \\
+[Formal Methods and Functional Programming](https://infsec.ethz.ch/education/ss2022/fmfp.html), 4V \\
+co-taught with Prof. Dr. Peter Müller \\
+[Formal Methods for Information Security](https://infsec.ethz.ch/education/ss2022/fmsec.html); 2V + 1U \\
+co-taught with Dr. Srdjan Krstic and Dr. Ralf Sasse
+
+- Autumn Semester 2021 \\
+[Applied Security Laboratory](http://www.infsec.ethz.ch/education/as2021/seclab); 3P
+
+- Spring Semester 2021 \\
+[Formal Methods for Information Security](http://www.infsec.ethz.ch/education/ss2021/fmsec); 2V + 1U \\
+co-taught with Dr. Ralf Sasse and Dr. Srdjan Krstic
+
+- Autumn Semester 2020 \\
+Applied Security Laboratory; 3P
+
+- Spring Semester 2020 \\
+Formal Methods for Information Security; 2V + 1U \\
+co-taught with Dr. Ralf Sasse and Dr. Srdjan Krstic
+
+- Autumn Semester 2019 \\
+Applied Security Laboratory; 3P
+
+- Spring Semester 2019 \\
+Computer-Aided Modelling and Reasoning; 4P \\
+co-taught with Dr. Dmitriy Traytel \\
+Formal Methods for Information Security; 2V + 1U \\
+co-taught with Dr. Ralf Sasse and Dr. Srdjan Krstic
+
+- Autumn Semester 2018 \\
+Applied Security Laboratory; 3P
+
+- Spring Semester 2018 \\
+Formal Methods for Information Security; 2V + 1U \\
+co-taught with Dr. Ralf Sasse and Dr. Srdjan Krstic
+
+- Autumn Semester 2017 \\
+Applied Security Laboratory; 3P \\
+Grundlagen der Informatik; 3U
+
+- Spring Semester 2017 \\
+Formal Methods for Information Security; 2V + 1U
+co-taught with Dr. Ralf Sasse
+
+- Autumn Semester 2016 \\
+Applied Security Laboratory; 3P
+
+- Spring Semester 2016 \\
+Formal Methods for Information Security; 2V + 1U
+co-taught with Dr. Ralf Sasse and Dr. Sasa Radomirovic
+
+- Autumn Semester 2015 \\
+Computer-Aided Modelling and Reasoning; 4P
+co-taught with Dr. Andreas Lochbihler
+Applied Security Laboratory; 3P
+
+- Autumn Semester 2014 \\
+Computer-Aided Modelling and Reasoning; 3P
+co-taught with Dr. Andreas Lochbihler
+Applied Security Laboratory; 3P
+
+- Spring Semester 2014 \\
+Formal Methods for Information Security; 2V + 1U
+co-taught with Dr. Mohammad Torabi Dashti and Dr. Sasa Radomirovic
+
+- Autumn Semester 2013 \\
+Applied Security Laboratory; 3P
+
+- Spring Semester 2013 \\
+Information Security; 2V \\
+co-taught with Prof. David Basin
+
+- Spring Semester 2012 \\
+Formal Methods for Information Security; 2V + 1U \\
+co-taught with Dr. Cas Cremers and Dr. Mohammad Torabi Dashti \\
+Information Security; 2U
+
+- Autumn Semester 2011 \\
+Current Topics in Information Security; 2S
+
+- Autumn Semester 2010 \\
+Formal Methods for Information Security; 2V + 2U \\
+co-taught with Dr. Cas Cremers \\
+Current Topics in Information Security; 2S
+
+- Spring Semester 2010 \\
+Formal Methods and Functional Programming, 2U \\
+For tutorial material click here.
+
+- Autumn Semester 2009 \\
+Formal Methods for Information Security; 2V + 2U \\
+co-taught with Dr. Sebastian Mödersheim
+
+- Spring Semester 2009 \\
+Information Security; 2U
+
+- Autumn Semester 2008 \\
+Informatik I (D-ITET), 2U 
+
+- Spring Semester 2008 \\
+Formal Methods and Functional Programming, 3V \\
+co-thaught with Dr. Felix Klaedtke
+
+- Autumn Semester 2007 \\
+Current Topics in Information Security; 2S
+
+- Summer Semester 2007 \\
+Information Security; 2U
+
+- Winter Semester 2006/07 \\
+Current Topics in Information Security; 2S
+
+- Summer Semester 2006 \\
+Information Security; 2U
+
+- Winter Semester 2005/06 \\
+Current Topics in Information Security; 2S
+
+- Summer Semester 2005 \\
+Information Security; 2U
+
+ 
+ 

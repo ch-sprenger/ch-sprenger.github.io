@@ -217,10 +217,10 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
-  - jekyll-diagrams
+#  - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
-#  - jekyll-imagemagick
+  - jekyll-imagemagick
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2

@@ -1,34 +1,36 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Basin":
+  - firstname: ["David", "D.", "D. A.", "David A.", "David Alan"]
+    url: https://people.inf.ethz.ch/basin/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Müller":
+  - firstname: ["Peter", "P."]
+    url: https://inf.ethz.ch/de/personen/person-detail.mueller.html
+    
+"Perrig":
+  - firstname: ["Adrian", "A."]
+    url: https://netsec.ethz.ch/people/aperrig/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Sasse":
+  - firstname: ["Ralf", "R."]
+    url: https://people.inf.ethz.ch/rsasse/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Cremers":
+  - firstname: ["Cas", "C."]
+    url: https://people.cispa.io/cas.cremers/
+    
+"Lallemand":
+  - firstname: ["Joseph", "J."]
+    url: https://people.irisa.fr/Joseph.Lallemand/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Dam":
+  - firstname: ["Mads", "M."]
+    url: https://www.kth.se/profile/mfd
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Gurov":
+  - firstname: ["Dilian", "D."]
+    url: https://www.kth.se/profile/dilian
+    
+"Huisman":
+  - firstname: ["Marieke", "M."]
+    url: https://wwwhome.ewi.utwente.nl/~marieke/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck

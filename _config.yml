@@ -16,7 +16,7 @@ footer_text: >
 keywords: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🏠  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ch-sprenger.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -55,7 +55,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 850px
+max_width: 900px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -268,7 +268,6 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 # -----------------------------------------------------------------------------
 
 scholar:
-
   last_name: [Sprenger]
   first_name: [Christoph]
 
@@ -282,6 +281,12 @@ scholar:
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
+
+  group_by: type
+  #group_order: ascending
+
+  type_order: [article]
+  type_names: {article: Journals, inproceedings: Conferences, techreport: Technical Reports, thesis: Theses} 
 
   replace_strings: true
   join_strings: true

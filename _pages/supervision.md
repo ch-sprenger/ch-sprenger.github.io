@@ -10,27 +10,27 @@ nav_order: 4
 ### PhD theses
 
 - Tobias Klenze (defended in Jun 2021): \\
-Formal Development of Secure Data Plane Protocols
+[Formal Development of Secure Data Plane Protocols](https://www.research-collection.ethz.ch/handle/20.500.11850/506662)
 
 
 - Ognjen Maric (defended in Feb 2017): \\
-Formal Verification of Fault-Tolerant Systems
+[Formal Verification of Fault-Tolerant Systems](https://www.research-collection.ethz.ch/handle/20.500.11850/130815)
 
 
 - Binh Thanh Nguyen (defended in May 2015): \\
-Sound Abstractions for Security Protocol Verification
+[Sound Abstractions for Security Protocol Verification](https://www.research-collection.ethz.ch/handle/20.500.11850/155236)
 
 
 ### MSc theses
 
-- Azucena Garvia Bosshard (April 2023) \\
-Formal Verification of the Sumcheck Protocol
+- Azucena Garvia Bosshard (Apr 2023) \\
+[Formal Verification of the Sumcheck Protocol](https://www.research-collection.ethz.ch/handle/20.500.11850/611002)
 
 - Shabnam Ghasemirad (Nov 2022) \\
-Mechanized Consistency Models for Distributed Database Transactions
+[Mechanized Consistency Models for Distributed Database Transactions](https://www.research-collection.ethz.ch/handle/20.500.11850/581334)
 
 - Sven Wiesner (May 2022) \\
-Automated Translation of Tamarin Theories into I/O Specifications for Igloo
+[Automated Translation of Tamarin Theories into I/O Specifications for Igloo](https://www.research-collection.ethz.ch/handle/20.500.11850/569146)
 
 - Noah Delius (Sep 2021) \\
 Automatic Generation of I/O Specifications from Component Event Systems in Igloo
@@ -39,7 +39,7 @@ Automatic Generation of I/O Specifications from Component Event Systems in Igloo
 Automatic Decomposition of Interface Models in Igloo
 
 - Zuzana Frankovska (Mar 2021) \\
-Modeling and Analysis of the SCION Dataplane in Tamarin
+[Modeling and Analysis of the SCION Dataplane in Tamarin](https://www.research-collection.ethz.ch/handle/20.500.11850/477332)
 
 - Sandra Dünki (Oct 2019) \\
 Modelling and Analysis of Web Applications in Tamarin

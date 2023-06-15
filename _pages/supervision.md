@@ -50,6 +50,9 @@ Formal Verification of Denial-of-Service-Resilient Protocols
 
 ### BSc theses
 
+- Josefine Hedlund (Mar 2023) \\
+A Zoo of Simulations
+
 - Cedric Gebistorf (Aug 2022) \\
 Component Model Transformation into I/O-Guarded Form in Igloo
 

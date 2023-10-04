@@ -11,6 +11,9 @@ V: lecture (as lecturer); U: exercises (as tutor); P: lab; S: seminar.
 
 ### 2023
 
+- Autumn Semester 2023 \\
+[Applied Security Laboratory](http://www.infsec.ethz.ch/education/as2023/seclab); 3P
+
 - Spring Semester 2023 \\
 [Computer-Aided Modelling and Reasoning](https://infsec.ethz.ch/education/ss2023/camr.html); 4P
 

@@ -9,6 +9,8 @@ nav_order: 5
 
 ### Programm Committees
 
+- Computer Security Foundations ([CSF 2025](https://csf2025.ieee-security.org))
+
 - Formal Methods for Blockchains ([FMBC 2019](https://sites.google.com/view/fmbc))
 
 - Computer Security Foundations ([CSF 2018](http://www.floc2018.org/conferences/))

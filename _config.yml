@@ -282,8 +282,8 @@ scholar:
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
 
-  group_by: year
-  group_order: descending
+  group_by: type
+  #group_order: descending
 
   type_order: [article]
   type_names: {article: Journals, inproceedings: Conferences, techreport: Technical Reports, thesis: Theses} 

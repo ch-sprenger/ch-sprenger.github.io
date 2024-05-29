@@ -283,7 +283,7 @@ scholar:
   bibtex_filters: [latex, smallcaps, superscript]
 
   group_by: year
-  #group_order: ascending
+  group_order: descending
 
   type_order: [article]
   type_names: {article: Journals, inproceedings: Conferences, techreport: Technical Reports, thesis: Theses} 

@@ -285,7 +285,7 @@ scholar:
   group_by: type
   #group_order: descending
 
-  type_order: [article]
+  type_order: [article,inproceeding,techreport,thesis]
   type_names: {article: Journals, inproceedings: Conferences, techreport: Technical Reports, thesis: Theses} 
 
   replace_strings: true

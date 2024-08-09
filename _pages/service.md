@@ -28,7 +28,7 @@ nav_order: 5
 
 ### Reviewing
 
-- Journals: ITP, JAR, FOAC, SCP, STTT, JCS, JISA, TDSC, JUCS, JAL, Studia Logica
+- Journals: STVR, TOPS, ITP, JAR, FOAC, SCP, STTT, JCS, JISA, TDSC, JUCS, JAL, Studia Logica
 
 - Conferences: S&P, CCS, CSF, AsiaCrypt, AsiaCCS, EuroS&P, FCS, ESORICS, LIS, POPL, ICALP, LP, FM, CSL, FoSSaCS, LPAR, ICFEM, SEFM, FSTTCS, FMOODS, HotSpot, FMBC, ESSoS-DS 
 

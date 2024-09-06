@@ -12,10 +12,8 @@ nav_order: 4
 - Tobias Klenze (defended in Jun 2021): \\
 [Formal Development of Secure Data Plane Protocols](https://www.research-collection.ethz.ch/handle/20.500.11850/506662)
 
-
 - Ognjen Maric (defended in Feb 2017): \\
 [Formal Verification of Fault-Tolerant Systems](https://www.research-collection.ethz.ch/handle/20.500.11850/130815)
-
 
 - Binh Thanh Nguyen (defended in May 2015): \\
 [Sound Abstractions for Security Protocol Verification](https://www.research-collection.ethz.ch/handle/20.500.11850/155236)
@@ -49,6 +47,9 @@ Formal Verification of Denial-of-Service-Resilient Protocols
 
 
 ### BSc theses
+
+- Elias Rodriguez (in progress) \\
+Modeling and Verification of the RAMP Concurrency Control Protocol
 
 - Josefine Hedlund (Mar 2023) \\
 A Zoo of Simulations

@@ -48,7 +48,13 @@ Formal Verification of Denial-of-Service-Resilient Protocols
 
 ### BSc theses
 
-- Elias Rodriguez (in progress) \\
+- Elias Kicker (in progress) \\
+Modeling and Verification of the RAMP Concurrency Control Protocol (cont.)
+
+- Leon Kolmanic (in progress) \\
+A Zoo of Simulations (cont.)
+
+- Elias Rodriguez (Jan 2025) \\
 Modeling and Verification of the RAMP Concurrency Control Protocol
 
 - Josefine Hedlund (Mar 2023) \\

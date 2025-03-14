@@ -11,6 +11,12 @@ V: lecture (as lecturer); U: exercises (as tutor); P: lab; S: seminar.
 
 ### 2024
 
+- Spring Semester 2025 \\
+[Formal Methods for Information Security](https://infsec.ethz.ch/education/ss2025/fmsec.html); 2V + 1U \\
+co-taught with Dr. Srdjan Krstic and Dr. Ralf Sasse
+
+### 2024
+
 - Spring Semester 2024 \\
 [Formal Methods for Information Security](https://infsec.ethz.ch/education/ss2024/fmsec.html); 2V + 1U \\
 co-taught with Dr. Srdjan Krstic and Dr. Ralf Sasse

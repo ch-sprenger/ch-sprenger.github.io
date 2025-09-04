@@ -48,7 +48,7 @@ Formal Verification of Denial-of-Service-Resilient Protocols
 
 ### BSc theses
 
-- Leon Kolmanic (iSep 2025) \\
+- Leon Kolmanic (Sep 2025) \\
 A Zoo of Simulations (Cont.)
 
 - Elias Rodriguez (Jan 2025) \\

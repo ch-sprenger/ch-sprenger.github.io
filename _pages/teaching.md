@@ -11,6 +11,10 @@ V: lecture (as lecturer); U: exercises (as tutor); P: lab; S: seminar.
 
 ### 2025
 
+- Autumn Semester 2025 \\
+[Applied Security Laboratory](http://www.infsec.ethz.ch/education/as2025/seclab); 3P \\
+co-taught with Prof. Dr. David Basin
+
 - Spring Semester 2025 \\
 [Formal Methods for Information Security](https://infsec.ethz.ch/education/ss2025/fmsec.html); 2V + 1U \\
 co-taught with Dr. Srdjan Krstic and Dr. Ralf Sasse
